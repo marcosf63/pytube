@@ -47,7 +47,7 @@ _default_clients = {
                 'clientName': 'ANDROID',
                 #'clientVersion': '17.31.35',
                 'clientVersion': '19.08.35'
-                'androidSdkVersion': 32
+                'androidSdkVersion': 32,
             }
         },
         'header': {
